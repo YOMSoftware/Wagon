@@ -89,10 +89,4 @@ public class ListEdit {
 		return position;
 	}
 
-	/*
-	 * public static void Update(int array[]) { sum = sum +
-	 * array[Location(array, FindMax(array))]; System.out.println("sum: " +
-	 * sum); }
-	 */
-
 }
